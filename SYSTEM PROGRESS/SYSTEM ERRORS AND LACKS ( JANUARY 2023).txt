@@ -1,0 +1,18 @@
+PATIENT BUTTON _____PATIENTS (Patient List)
+-Not showing in the list if adding but It is adding in the Database
+-Not Updating
+-Not adding checkup details and showing details
+
+
+TEACHER BUTTON____PATIENTS (List of Patients)
+-Not updating and editing the list
+-Not adding checkup details and showing details
+-sidebar buttons like patient and grade &section going to the other patient list or section.
+
+REPORTS
+-No reports yet created
+
+Setting
+-No Setting Created
+
+

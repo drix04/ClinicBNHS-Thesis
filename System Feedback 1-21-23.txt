@@ -1,0 +1,14 @@
+Clinic Dashboard
+	-User and Usertype Missing
+Patients Dashboard
+	-Sidebar (remove Grade & Section, User Put it in to clinic Dashboard Settings)
+	-Hide/Remove Vaccination and cormobilities in Patient List ( Even in fill up form fields)
+Reports Dashboard
+	-Vaccination Report (Update button with errors)
+	- No print
+Setting Dashboard 
+	-Sidebar (must be)
+		-Grade & Section
+		-Address(Barangay, Municipality, Province)
+		-Users
+	
